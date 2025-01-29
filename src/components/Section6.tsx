@@ -1,10 +1,6 @@
 'use client'
 import React from 'react'
 import { Testimonial1, Testimonial2, Testimonial3, Testimonial4, Testimonial5, Testimonial6 } from '@/components/Testimonial'
-import { Button } from './ui/button'
-import { IoArrowBackOutline } from "react-icons/io5";
-import { IoArrowForwardOutline } from "react-icons/io5";
-import { GoDotFill } from "react-icons/go";
 import {
     Carousel,
     CarouselContent,

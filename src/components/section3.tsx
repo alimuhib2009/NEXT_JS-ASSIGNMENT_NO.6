@@ -2,9 +2,9 @@
 import React from 'react'
 import { Courses1,Courses2,Courses3,Courses4,Courses5,Courses6,Courses7,Courses8,Courses9 } from './courses'
 import {Button} from '@/components/ui/button'
-import { useState } from 'react';   
+import  {useState}  from 'react';   
 
-const section3 = () => {
+const Section3 = () => {
 
   const [isVisible, setIsVisible] = useState(true);
   
@@ -33,4 +33,4 @@ const section3 = () => {
     )
 }
 
-export default section3
+export default Section3
